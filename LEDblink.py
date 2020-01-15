@@ -6,4 +6,4 @@ for i in range(100): #Repeat this loop 100 times
 	time.sleep(0.05) #sleep for 50msec
 	TINK.setLED(0,0) #LED on time.sleep(0.05) #sleep for 50msec
 	
-print ('I'm all blinked out!')
+print ("I'm all blinked out!")
