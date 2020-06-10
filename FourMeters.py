@@ -1,4 +1,4 @@
-import METER as TINK  #import TIINKERplate module
+import piplates.TINKERplate as TINK  #import TINKERplate module
 import math  #import math module - needed for sine and pi
 import time  #import the time module - needed for sleep
 
